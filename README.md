@@ -6,7 +6,7 @@ apt update && apt upgrade -y
 https://github.com/nohups/ubotprem
 ```
 ```
-cd yass && screen -S yass
+cd ubotprem && screen -S ubotprem
 ```
 ```
 bash installnode.sh && apt install python3-venv
