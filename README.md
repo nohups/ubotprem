@@ -3,7 +3,7 @@
 apt update && apt upgrade -y
 ```
 ```
-git clone https://github.com/AlwaysBoyszz/Ubotpremboy
+https://github.com/nohups/ubotprem
 ```
 ```
 cd yass && screen -S yass
