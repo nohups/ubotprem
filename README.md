@@ -3,7 +3,7 @@
 apt update && apt upgrade -y
 ```
 ```
-https://github.com/nohups/ubotprem
+git clone https://github.com/nohups/ubotprem
 ```
 ```
 cd ubotprem && screen -S ubotprem
